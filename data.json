@@ -1,0 +1,46 @@
+{
+  "basics":{
+    "name":"DinuReddy",
+    "email":"www.reddy24@gmail.com"
+  },
+    "career":
+    {
+      "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+    },
+    "education":[
+    {
+      "degree":"B.tech",
+      "institue":"Svit,Anathapur",
+      "data":["2016-2020,75%"]
+    },
+    {
+      "degree":"puc",
+      "institue":"krupanidhi pu college,Banglore",
+      "data":["2014-2016,80%"]
+    },
+    {
+    "degree":"sslc",
+    "institue":"Gulabi Techno High School,Banglore",
+    "data":["2002-2014,71%"]
+    }
+  ],
+"skills":
+[
+  {
+    "sname":"languages",
+    "sdata":["c,c++,java"]
+  },
+  {
+    "sname":"database",
+    "sdata":["oracle,mysql,mysqllite,pdf"]
+  },
+  {
+    "sname":"web Technologies",
+    "sdata":["html,xml,css,php,javascript"]
+  },
+  {
+    "sname":"operating systems",
+    "sdata":["os,windows,linux,unix,ios"]
+  }
+]
+}
